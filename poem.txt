@@ -3,6 +3,7 @@ The rainbow
 blue
 red
 test
+Indigo
 add green
 yellow
 
